@@ -246,7 +246,7 @@ header .header-content .header-content-inner p {
 
 .btn-github{
   font-size: 50px;
-  color: black;
+  color: blue;
 }
 
 .btn-twitter{
@@ -287,8 +287,14 @@ header .header-content .header-content-inner p {
     margin-bottom: 0;
 }
 
-#portfolio{
-  padding-top: 50px;
+.projects{
+  padding-bottom: 20px;
+}
+
+
+
+.github-profile{
+  padding-top: 20px;
 }
 
 .portfolio-box {
